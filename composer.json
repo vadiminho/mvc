@@ -1,0 +1,16 @@
+{
+  "name": "vadimantonovic/htdocs",
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/",
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "vadiminho",
+      "email": "79993507+vadiminho@users.noreply.github.com"
+    }
+  ],
+  "require": {}
+}
